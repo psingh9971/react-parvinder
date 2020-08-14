@@ -1,25 +1,35 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react'
+
 
 class First extends Component{
 
 render(){
 
-return(
+return (
 
-
-    <div>
-   <h1> parvinder</h1>
-   
-
-
-    </div>
-
-
-
+<div>
+<h1>hello</h1>
+<h2>parvinder</h2>
+</div>
 )
 
 
+
+
+
+
+
+
 }
+
+
+
+
+
+
+
+
+
 
 }
 
